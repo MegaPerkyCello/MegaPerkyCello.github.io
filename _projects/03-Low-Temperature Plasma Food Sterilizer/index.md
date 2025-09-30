@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Low-Temperature Plasma Food Sterilizer
-order: 1
 description: fdf
 
 skills: 
