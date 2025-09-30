@@ -48,6 +48,7 @@ skills:
     - Arduino / Raspberry Pi
     - Through-Hole / Surface-Mount Soldering
   - category: Programming
+    tools:
     - Python
     - Java
     - C
