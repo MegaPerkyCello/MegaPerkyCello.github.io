@@ -15,22 +15,20 @@ title: Remington Yang # This is what shows up in the tab of the browser
 name: Remington Yang
 headline: Electrical Engineering and CS Student @ MIT
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  W
-
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
 
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing # or /assets/resume/resume.pdf
+resume-url: https://docs.google.com/document/d/1w6QAYf-7qDaoN6hoL4IGjqXhmTRJsxbCZ7ckA4bk-GU/edit?usp=sharing # or /assets/resume/resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
+  linkedin: https://www.linkedin.com/in/remingtonyang/    # https://www.linkedin.com/in/{your url slug} 
+  github: https://github.com/MegaPerkyCello    # https://github.com/{your url slug} 
   stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
