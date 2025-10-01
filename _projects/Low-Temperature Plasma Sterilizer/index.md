@@ -1,9 +1,18 @@
 ---
 layout: post
-title: project title
-description:  short description of the project
-skills: 
-- skill 1
-- skill 2
+title: Low-Temperature Plasma Food Sterilizer
+description:  
+
+### sub-section title
+- First item
+- Second item
+- Third item
+- Fourth item
+
+### sub-section title
+- First item
+- Second item
+- Third item
+
 main-image: /project.webp 
 ---
