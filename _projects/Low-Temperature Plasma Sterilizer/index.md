@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Low-Temperature Plasma Food Sterilizer
-description:  
+title: Low-Temperature Plasma Food Sterilizer 
 
 ### sub-section title
 - First item
