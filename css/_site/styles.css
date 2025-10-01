@@ -238,7 +238,7 @@ nav .right a:last-child:hover{
     box-sizing: border-box; /* Padding and border included in width */
     display: flex; /* Use flex to align content vertically */
     flex-direction: column; /* Stack content vertically */
-    min-height: 500px; 
+    min-height: 320px; 
     background: var(--background-color);
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 
                   0 2px 4px -1px rgba(0, 0, 0, 0.06);
@@ -434,7 +434,7 @@ nav .right a:last-child:hover{
 
     .project-grid-section .grid-container .project-card {
         max-width: 500px;
-        height: 500px; /* Or any fixed height that suits your design */
+        height: auto; /* Or any fixed height that suits your design */
     }
 }
 
