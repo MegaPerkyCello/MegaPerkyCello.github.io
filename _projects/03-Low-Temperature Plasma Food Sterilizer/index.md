@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Low-Temperature Plasma Food Sterilizer
-description: fdf
-
-skills: 
-- skill 1
-- skill 2
+description:
+- First item
+- Second item
+- Third item
+- Fourth item
 main-image: /project.webp 
 ---
