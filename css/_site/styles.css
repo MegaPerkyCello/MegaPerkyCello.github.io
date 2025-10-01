@@ -434,7 +434,7 @@ nav .right a:last-child:hover{
 
     .project-grid-section .grid-container .project-card {
         max-width: 500px;
-        height: 500px; /* Or any fixed height that suits your design */
+        height: 300px; /* Or any fixed height that suits your design */
     }
 }
 
