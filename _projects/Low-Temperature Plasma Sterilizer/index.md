@@ -14,5 +14,5 @@ description:
 - Second item
 - Third item
 
-main-image: /project.webp 
+main-image: /project.png
 ---
