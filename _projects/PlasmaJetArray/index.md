@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Plasma Jet Array
-description: Made a plasma jet that branches out into 16 jets, creating a larger volume of plasma for material surface-treatmant
+description: Made a plasma jet that branches out into 16 jets, creating a larger volume of plasma for material surface-treatment
 skills: 
   - Low-Temperature Plasma Physics
   - RF High-Voltage Circuits
   - Fusion 360
   - FDM 3D-Printing
 
-main-image: /Plasma Sterilizer.png
+main-image: /PlasmaJet.jpg
 ---
 
 ### **What?**
- - Made a plasma jet that branches out into 16 jets, creating a larger volume of plasma for material surface-treatmant
+ - Made a plasma jet that branches out into 16 jets, creating a larger volume of plasma for material surface-treatment
 
 ### **How?**
 - Modeled the gas distributor in **Fusion 360**
