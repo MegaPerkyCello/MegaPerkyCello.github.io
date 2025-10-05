@@ -19,4 +19,6 @@ main-image: /PlasmaJetArray.jpg
 - Matched impedance of the transformer inductance with capacitors for longer jet plumes
 
 
+<br>
 
+{% include image-gallery.html images="FullPlasmaJet.jpg" height="400" %}
