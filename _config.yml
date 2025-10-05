@@ -17,7 +17,7 @@ headline: Electrical Engineering and CS @ MIT
 description: >- # dont remove this line. this will ignore all new lines until the next section
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/Remington_Headshot.jpeg
 
 
 # Link your resume
@@ -28,8 +28,8 @@ resume-url: https://docs.google.com/document/d/1w6QAYf-7qDaoN6hoL4IGjqXhmTRJsxbC
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/remingtonyang/    # https://www.linkedin.com/in/{your url slug} 
-  github: https://github.com/MegaPerkyCello   # https://github.com/{your url slug} 
+  linkedin: remingtonyang/    # https://www.linkedin.com/in/{your url slug} 
+  github: MegaPerkyCello   # https://github.com/{your url slug} 
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
@@ -63,7 +63,7 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:  xblzoojk
 
 
 
