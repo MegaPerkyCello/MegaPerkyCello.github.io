@@ -1,18 +1,23 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Low-Temperature Plasma Sterilizer
+description: Developed plasma generator that can be molded into any shape and produce a large volume of plasma, enabling sterilization of foods
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Low-Temperature Plasma Physics
+  - RF High-Voltage Circuits
+  - Altium Designer
+  - Fusion 360
+  - FDM 3D-Printing
 
-main-image: /PlasmaPowerr.jpg
+main-image: /Plasma Sterilizer.png
 ---
+
+### **What?**
+ - Plasma generators produce a tiny volume of plasma and have a geometry that hinders treatment
+ - Developed plasma generator that can be molded into any shape and produce a large volume of plasma, enabling sterilization of foods
+
+### **How?**
+- Used **Fusion 360** to model a gas distributor that is readily customizable in shape and **3D-printed** it
+- Designed a RF pulse-oscillator circuit on **Altium Designer** to drive a flyback transformer and power the device
 
 {% include image-gallery.html images="PlasmaPowerr.jpg" height="400" %}
