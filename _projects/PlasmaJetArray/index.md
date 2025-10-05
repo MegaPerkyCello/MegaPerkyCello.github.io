@@ -21,4 +21,4 @@ main-image: /PlasmaJetArray.jpg
 
 <br>
 
-{% include image-gallery.html images="FullPlasmaJet.jpg" height="400" %}
+{% include image-gallery.html images="FullPlasmaJet.jpg" height="50" %}
