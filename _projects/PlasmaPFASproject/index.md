@@ -15,15 +15,15 @@ main-image: /PlasmaPFAS.jpg
 ---
 
 ### **What?**
- - PFAS are toxic water pollutants that are very difficult to degrade. Short-Chain PFAS is the most recalcitrant and problematic PFAS strain
+ - PFAS are toxic water pollutants that are very difficult to degrade. **Short-Chain PFAS** is the most recalcitrant and problematic PFAS strain
  - Short-Chain PFAS water pollutants are unreachable by plasma in water
- - Created a device coupling plasma and activated carbon to degrade Short-Chain PFAS
+ - Created a device **coupling plasma and activated carbon** to degrade Short-Chain PFAS
 
 
 ### **How?**
  - Used activated carbon to capture Short-Chain PFAS from water and concentrate it on its surface
- - Designed a dielectric barrier discharge plasma to generate plasma around the carbon, promoting interaction with Short-Chain PFAS
- - Used High-Performance Liquid Chromatography and centrifugation to analyze results
+ - Designed a **dielectric barrier discharge plasma** to generate plasma around the carbon, promoting interaction with Short-Chain PFAS
+ - Used **High-Performance Liquid Chromatography and centrifugation** to analyze results
 
 
 ### **Results**
