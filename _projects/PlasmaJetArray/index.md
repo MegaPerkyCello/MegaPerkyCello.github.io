@@ -8,7 +8,7 @@ skills:
   - Fusion 360
   - FDM 3D-Printing
 
-main-image: /PlasmaJet.jpg
+main-image: /PlasmaJetArray.jpg
 ---
 
 ### **What?**
