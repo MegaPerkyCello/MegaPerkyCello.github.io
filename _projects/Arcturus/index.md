@@ -1,7 +1,7 @@
 ---
 layout: post
 title: STM32 PCB for Arcturus Robot
-description: Made a plasma jet that branches out into 16 jets, creating a larger volume of plasma for material surface-treatment.
+description: Designed a PCB based on the STM32 that interfaces with the Arcturus Robot system.
 skills: 
   - Altium Designer
   - Saturn PCB Toolkit
@@ -12,13 +12,13 @@ main-image: /PictureArcutus.jpg
 ---
 
 ### **What?**
- - Made a plasma jet that branches out into 16 jets, creating a larger volume of plasma for material surface-treatment
+ - Designed a PCB based on the STM32 that interfaces with the Arcturus Robot system.
 
 ### **How?**
-- Modeled the gas distributor in **Fusion 360**
-- Matched impedance of the transformer inductance with capacitors for longer jet plumes
+- Created schematics for UART, SPI, I2C, GPIO, and power headers
+- Routed to the STM32 chip
 
 
-<br>
+<!-- <br>
 
-{% include image-gallery.html images="AltiumPic.jpg" height="500" %}
+{% include image-gallery.html images="AltiumPic.jpg" height="500" %} -->
