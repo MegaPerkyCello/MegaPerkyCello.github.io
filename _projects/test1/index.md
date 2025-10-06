@@ -8,6 +8,8 @@ skills:
   - Altium Designer
   - Fusion 360
   - FDM 3D-Printing
+  - Oscilloscope
+  - Soldering
 
 main-image: /Plasma Sterilizer.png
 ---
