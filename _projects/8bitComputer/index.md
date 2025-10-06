@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8-bit Computer
-description: 
+description: Used HDL to simulate a simple Von Neumann computer, and building it on breadboards.
 skills: 
   - Basic HDL and Assembly
   - Computer Architecture
