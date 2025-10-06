@@ -6,7 +6,6 @@ skills:
   - Low-Temperature Plasma Physics
   - Analytical Chemistry
   - High-Performance Liquid Chromatography
-  - Centrifugation
   - Wet Lab
   - Fusion 360
   - FDM 3D-Printing
