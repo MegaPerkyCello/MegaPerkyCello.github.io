@@ -11,12 +11,12 @@ main-image: /Nand2Tetris.jpg
 ---
 
 ### **What?**
- - Used *HDL* to simulate a simple Von Neumann computer
+ - Used **HDL** to simulate a simple Von Neumann computer
  - Building the 8-bit computer on breadboards
 
 
 ### **How?**
-- *Designed the RAM, ALU, and CPU* using primitive gates
+- **Designed the RAM, ALU, and CPU** using primitive gates
 
 
 <br>
