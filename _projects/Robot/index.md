@@ -4,6 +4,7 @@ title: Robot for Maze Competition
 description: Made a robot controlled with Arduino for the Science Olympiad maze competition.
 skills: 
   - Arduino
+  - Robotics
   - Fusion 360
   - FDM 3D-Printing
 main-image: /Robot.jpg
