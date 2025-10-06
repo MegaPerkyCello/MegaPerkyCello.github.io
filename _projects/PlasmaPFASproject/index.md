@@ -28,6 +28,7 @@ main-image: /PlasmaPFAS.jpg
 
 ### **Results**
 - Degraded Short-Chain PFAS
-- 50% degradation of initial concentration 2μmol 
+- 50% degradation of initial concentration 2μmol
+- **Presented findings to industry professionals** in the US National Stockholm Junior Water Prize and won **2nd place**
 
 
