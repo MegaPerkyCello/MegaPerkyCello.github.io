@@ -60,12 +60,15 @@ skills:
     - Python
     - Java
     - C
+    - Basic HDL
+    - Basic Assembly
   - category: Technical
     tools:
     - Robotics
     - Basic Analog Circuits
     - RF High-Voltage Circuits
     - Low-Temperature Plasma Physics
+    - Computer Architecture
   - category: Chemistry
     tools:
     - Wet Lab
