@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plasma Jet Array
-description: Made a plasma jet that branches out into 16 jets, creating a larger volume of plasma for material surface-treatment
+description: Made a plasma jet that branches out into 16 jets, creating a larger volume of plasma for material surface-treatment.
 skills: 
   - Low-Temperature Plasma Physics
   - RF High-Voltage Circuits
