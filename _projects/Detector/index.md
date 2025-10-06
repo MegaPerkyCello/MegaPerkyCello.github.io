@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chloride Concentration Detector
-description: Made an Ag/AgCl Oxidation-Reduction Potential probe to accurately measure very low chloride concentrations for Science Olympiad Competition
+description: Made an Ag/AgCl Oxidation-Reduction Potential probe to accurately measure very low chloride concentrations for Science Olympiad Competition.
 
 skills: 
   - Arduino
@@ -10,17 +10,23 @@ skills:
   - Analytical Chemistry
   - Electrochemistry
 
-main-image: /PlasmaJetArray.jpg
+main-image: /DetectorBuilding.jpg
 ---
 
 ### **What?**
- - Made a plasma jet that branches out into 16 jets, creating a larger volume of plasma for material surface-treatment
+ -  Made an Ag/AgCl Oxidation-Reduction Potential probe to accurately measure very low chloride concentrations for Science Olympiad Competition
 
 ### **How?**
-- Modeled the gas distributor in **Fusion 360**
-- Matched impedance of the transformer inductance with capacitors for longer jet plumes
+- Used a **shunt voltage regulator** for a stable voltage reference for the **Arduino**
+- Used **op amps** to amplify the signal from the electrodes
+- Created a stable **Ag/AgCl reference electrode** with an agar salt bridge
+- Calibrated the detector with a voltage vs. concentration model
 
+### **Results**
+- Won 2nd in the Princeton Invitational
+- Won 4th in the PA State Competition
 
 <br>
 
-{% include image-gallery.html images="FullPlasmaJet.jpg" height="1000" %}
+## **Ag/AgCl reference electrode**
+{% include image-gallery.html images="Detector3.jpg" height="1000" %}
