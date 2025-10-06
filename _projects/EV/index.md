@@ -4,7 +4,6 @@ title: Small Vehicle for Race Competition
 description: Made an Arduino-controlled vehicle for the Science Olympiad racing competition.
 skills: 
   - Arduino
-  - Brushless Motor Control
   - Fusion 360
   - FDM 3D-Printing
 
