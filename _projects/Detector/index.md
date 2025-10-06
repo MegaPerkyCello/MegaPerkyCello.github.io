@@ -10,7 +10,7 @@ skills:
   - Analytical Chemistry
   - Electrochemistry
 
-main-image: /DetectorBuilding.jpg
+main-image: /DetectorBuilding1.jpg
 ---
 
 ### **What?**
