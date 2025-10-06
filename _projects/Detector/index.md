@@ -29,4 +29,4 @@ main-image: /DetectorBuilding.jpg
 <br>
 
 ## **Ag/AgCl reference electrode**
-{% include image-gallery.html images="Detector3.jpg" height="1000" %}
+{% include image-gallery.html images="Detector3.jpg" height="500" %}
