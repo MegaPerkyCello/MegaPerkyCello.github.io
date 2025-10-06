@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Robot for Maze Competition
-description: Made a robot controlled with Arduino for the Science Olympiad maze competition
+description: Made a robot controlled with Arduino for the Science Olympiad maze competition.
 skills: 
-  - Low-Temperature Plasma Physics
-  - RF High-Voltage Circuits
+  - Arduino
   - Fusion 360
   - FDM 3D-Printing
 
