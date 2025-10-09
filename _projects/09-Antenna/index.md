@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yagi Antenna
-description: Constructed a 462 MHz Yagi Antenna for Amateur Radio
+description: Constructed a 462 MHz Yagi Antenna for Amateur Radio as part of MIT Radio Society.
 
 skills: 
   - Spectrum Analyzer
@@ -10,7 +10,7 @@ main-image: /YagiAntenna.jpg
 ---
 
 ### **What?**
- -  Constructed a 462 MHz Yagi Antenna for Amateur Radio
+ -  Constructed a 462 MHz Yagi Antenna for Amateur Radio as part of MIT Radio Society
 
 ### **How?**
 - Cut metal rods to correct lengths
