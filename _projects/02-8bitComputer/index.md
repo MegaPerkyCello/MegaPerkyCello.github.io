@@ -21,5 +21,5 @@ main-image: /Nand2Tetris.jpg
 
 <br>
 
-{% include image-gallery.html images="8bitBreadboard.jpg" height="500" %}
-{% include image-gallery.html images="8bitBread.jpg" height="500" %}
+{% include image-gallery.html images="NewestBBComp.jpg" height="500" %}
+
