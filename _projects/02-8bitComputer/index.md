@@ -7,7 +7,7 @@ skills:
   - Computer Architecture
   - Oscilloscope
 
-main-image: /Nand2Tetris.jpg
+main-image: /NewestBBComp.jpg
 ---
 
 ### **What?**
@@ -18,8 +18,6 @@ main-image: /Nand2Tetris.jpg
 ### **How?**
 - **Designed the RAM, ALU, and CPU** using primitive gates
 
-
 <br>
-
-{% include image-gallery.html images="NewestBBComp.jpg" height="500" %}
+{% include image-gallery.html images="Nand2Tetris.jpg" height="500" %}
 
