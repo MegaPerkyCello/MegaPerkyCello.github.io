@@ -19,5 +19,6 @@ main-image: /NewestBBComp.jpg
 - **Designed the RAM, ALU, and CPU** using primitive gates
 
 <br>
+## **HDL**
 {% include image-gallery.html images="Nand2Tetris.jpg" height="500" %}
 
