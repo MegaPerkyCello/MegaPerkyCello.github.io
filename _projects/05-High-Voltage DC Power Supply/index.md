@@ -5,7 +5,7 @@ description: Created a 10-50K volt adjustable DC Power supply.
 skills: 
   - RF High-Voltage Circuits
 
-main-image: /PlasmaJetArray.jpg
+main-image: /HighVoltageDCPower.jpg
 ---
 
 ### **What?**
@@ -19,5 +19,7 @@ main-image: /PlasmaJetArray.jpg
 
 
 <br>
-
-{% include image-gallery.html images="FullPlasmaJet.jpg" height="1000" %}
+## **Cockcroft–Walton voltage multiplier**
+{% include image-gallery.html images="HighVoltageDCPower1.jpg" height="500" %}
+## **Flyback Transformer**
+{% include image-gallery.html images="FlybackTransformer.jpg" height="500" %}
