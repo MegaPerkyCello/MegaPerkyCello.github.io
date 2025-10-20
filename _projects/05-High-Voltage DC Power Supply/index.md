@@ -20,6 +20,8 @@ main-image: /HighVoltageDCPower.jpg
 
 <br>
 ## **Cockcroft–Walton voltage multiplier**
+
 {% include image-gallery.html images="HighVoltageDCPower1.jpg" height="500" %}
+
 ## **Flyback Transformer**
 {% include image-gallery.html images="FlybackTransformer.jpg" height="500" %}
