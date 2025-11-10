@@ -17,7 +17,7 @@ main-image: /IonicWindDrone.jpg
 - Build a lightweight frame with cathode and anode for ionic wind
 
 ### **Results**
-- Ionic drone lifted itself for 3 seconds without power supply onboard
+- Ionic drone lifted itself for 1 second without power supply onboard
 
 
 <br>
