@@ -21,5 +21,5 @@ main-image: /STM32New.jpg
 
 
 <br>
-
-{% include image-gallery.html images="switch.jpg" height="500" %}
+## **Switch PCB
+{% include image-gallery.html images="Switch.jpg" height="500" %}
