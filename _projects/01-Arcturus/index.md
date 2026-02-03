@@ -1,7 +1,7 @@
 ---
 layout: post
-title: STM32 PCB for Arcturus Robot
-description: Designed a PCB based on the STM32 that interfaces with the Arcturus Robot system.
+title: Arcturus Robot
+description: Designed a PCB . Also designed a PCB based on the STM32 that interfaces with the Arcturus Robot system for debugging and testing.
 skills: 
   - Altium Designer
   - Saturn PCB Toolkit
