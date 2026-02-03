@@ -49,6 +49,19 @@ skills:
     - Communicative
     - Diligent
     - Organization
+  - category: FPGA
+    tools:
+    - SystemVerilog
+    - Vivado
+  - category: Programming
+    tools:
+    - Python
+    - C
+    - RISC-V Assembly
+  - category: PCB Design
+    tools:
+    - Altium Designer
+    - Saturn PCB Toolkit
   - category: 3D Modeling
     tools:
     - Fusion 360
@@ -59,17 +72,6 @@ skills:
     - Oscilloscope
     - Spectrum Analyzer
     - Through-hole/Surface-mount Soldering  
-  - category: PCB Design
-    tools:
-    - Altium Designer
-    - Saturn PCB Toolkit
-  - category: Programming
-    tools:
-    - Python
-    - Java
-    - C
-    - Basic HDL
-    - Basic Assembly
   - category: Technical
     tools:
     - Robotics
