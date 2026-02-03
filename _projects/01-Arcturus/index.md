@@ -22,4 +22,4 @@ main-image: /STM32New.jpg
 
 <br>
 
-{% include image-gallery.html images="switch.jpeg" height="500" %}
+{% include image-gallery.html images="switch.jpg" height="500" %}
