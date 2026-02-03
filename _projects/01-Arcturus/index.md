@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arcturus Robot
-description: Designed a PCB . Also designed a PCB based on the STM32 that interfaces with the Arcturus Robot system for debugging and testing.
+description: Initial robot manual mode went through the main computer which delayed commands. Designed and implemented a PCB to switch between manual and autonomous drive mode and interpret CAN commands to manual drive. Also designed a PCB based on the STM32 that interfaces with the Arcturus Robot system for debugging and testing.
 skills: 
   - Altium Designer
   - Saturn PCB Toolkit
@@ -12,7 +12,8 @@ main-image: /STM32New.jpg
 ---
 
 ### **What?**
- - Designed a PCB based on the STM32 that interfaces with the Arcturus Robot system.
+ - Initial robot manual mode went through the main computer which delayed commands. Designed and implemented a PCB to switch between manual and autonomous drive mode and interpret CAN commands to manual drive
+ - Designed and made a PCB based on the STM32 that interfaces with the Arcturus Robot system for debugging and testing.
 
 ### **How?**
 - Created schematics for UART, SPI, I2C, GPIO, and power headers
