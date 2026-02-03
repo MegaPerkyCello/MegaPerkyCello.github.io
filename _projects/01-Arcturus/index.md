@@ -8,7 +8,7 @@ skills:
   - Microcontrollers
   - Soldering
 
-main-image: /PictureArcutus.jpg
+main-image: /STM32New.jpg
 ---
 
 ### **What?**
