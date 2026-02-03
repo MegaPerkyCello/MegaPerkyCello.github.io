@@ -20,6 +20,6 @@ main-image: /STM32New.jpg
 - Created schematics for UART, SPI, I2C, GPIO, and power headers
 
 
-<!-- <br>
+<br>
 
-{% include image-gallery.html images="AltiumPic.jpg" height="500" %} -->
+{% include image-gallery.html images="switch.jpeg" height="500" %}
